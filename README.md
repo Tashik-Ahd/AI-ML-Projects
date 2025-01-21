@@ -82,7 +82,7 @@ The following tools and libraries are extensively used across the projects:
 If you have any questions, suggestions, or collaborations in mind, feel free to reach out to me:
 
 - **Email**: [tashik.ahd@example.com](mailto:tashik.ahd@example.com)
-- **LinkedIn**: [Tashik Ahmed](https://linkedin.com/in/tashik-ahmed)
+- **LinkedIn**: [Tashik Ahmed](https://linkedin.com/in/ahmedtashik)
 - **GitHub**: [Tashik-Ahd](https://github.com/Tashik-Ahd)
 
 ---
